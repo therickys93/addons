@@ -1,5 +1,9 @@
 # Changelog
 
+## 6.5.1
+
+- Update mosquitto to version 2.0.21
+
 ## 6.5.0
 
 - Update base image to Debian 12 (bookworm)
